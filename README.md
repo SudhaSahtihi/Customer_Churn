@@ -12,7 +12,6 @@ This project identifies and analyzes customer churn patterns using custom SQL ta
 📁 Dataset
 
 A synthetic dataset was created based on real-world churn factors in telecom/e-commerce:
-
 customers: customer details and churn status
 
 usage: monthly data, call, and SMS usage

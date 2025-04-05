@@ -67,7 +67,7 @@ Average Usage Comparison (Churned vs Active)
 
 🔢 Top KPIs: Churn Rate, Retention Rate, Failed Payments
 
-![Alt Text](Tableau/KPIDashboard1.png)
+![Alt Text](Tableau/KPI Dashboard1.png)
 
 📈 Trend Chart: Monthly churn pattern
 

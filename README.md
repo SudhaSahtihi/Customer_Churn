@@ -1,17 +1,23 @@
-# Customer_Churn
-Predicting Customer who have already churned, to be churn and why did they do it?
-
 📊 Customer Churn Analysis Dashboard
 
 SQL + Tableau Project
 
-🔍 Overview
+🔍 Project Overview
 
-This project identifies and analyzes customer churn patterns using custom SQL tables and visualizes key churn drivers through an interactive Tableau dashboard. It simulates a real-world telecom/e-commerce dataset and demonstrates advanced SQL logic and storytelling through Tableau.
+This project analyzes customer churn behavior in the telecom domain, using personally collected data from a local Wi-Fi provider. Due to data privacy restrictions, the provider shared usage, billing, and complaint data for 10 anonymized customers — with names excluded.
+
+Using this data, I created a custom SQL schema to simulate a real-world churn environment and applied analytical queries to uncover:
+
+Which customers are at risk
+
+What behavioral patterns lead to churn
+
+How billing failures and support issues affect retention
+
+The results were visualized using Tableau, with actionable KPIs and interactive dashboards designed to support business decision-making.
+
 
 📁 Dataset
-
-A synthetic dataset was created based on real-world churn factors in telecom/e-commerce:
 
 customers: customer details and churn status
 
@@ -47,9 +53,11 @@ Churn Rate by Contract Type
 
 Monthly Churn Trend
 
-High-risk Customer Detection (Low usage, payment issues, complaints)
+Complaint Type 
 
-Complaint Type vs Churn
+![Alt Text](Sheet1.png)
+
+High-risk Customer Detection (Low usage, payment issues, complaints)
 
 Average Usage Comparison (Churned vs Active)
 
@@ -59,9 +67,15 @@ Average Usage Comparison (Churned vs Active)
 
 🔢 Top KPIs: Churn Rate, Retention Rate, Failed Payments
 
+![Alt Text](KPIDashboard1.png)
+
 📈 Trend Chart: Monthly churn pattern
 
-📊 Bar/Heatmap: Churn by contract type & complaint type
+![Alt Text](Sheet3.png)
+
+📊 Churn by contract type & complaint type
+
+![Alt Text](Sheet2.png)
 
 🎛️ Interactive Filters by contract, issue, and churn status
 

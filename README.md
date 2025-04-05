@@ -55,7 +55,7 @@ Monthly Churn Trend
 
 Complaint Type 
 
-![Alt Text](Sheet1.png)
+![Alt Text](Tableau/Sheet1.png)
 
 High-risk Customer Detection (Low usage, payment issues, complaints)
 
@@ -67,15 +67,15 @@ Average Usage Comparison (Churned vs Active)
 
 🔢 Top KPIs: Churn Rate, Retention Rate, Failed Payments
 
-![Alt Text](KPIDashboard1.png)
+![Alt Text](Tableau/KPIDashboard1.png)
 
 📈 Trend Chart: Monthly churn pattern
 
-![Alt Text](Sheet3.png)
+![Alt Text](Tableau/Sheet3.png)
 
 📊 Churn by contract type & complaint type
 
-![Alt Text](Sheet2.png)
+![Alt Text](Tableau/Sheet2.png)
 
 🎛️ Interactive Filters by contract, issue, and churn status
 
